@@ -1,9 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.6.0-mirror",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.6.0/k10-agent-v0.6.0.apk",
-  "sha256": "39abb550bb8947380118d89fa2db0bfa78e2f5eef96ee67908c7cd1dbd84cfaa",
-  "mirrorUrl": "https://drive.google.com/file/d/1Kbv7EqZMi3jqHmlWnVQDCB4vaR4E-Lou/view?usp=drivesdk",
-  "signature": "MEUCIQDea+BXesPiZ4idXShcCih8oPzrf0BNRNMyMknbXCeSsgIgAlaQgErE9+0qXI2ojGN/HZ6er+XINsOjTk7YWWqAZY4=",
-  "mirrorSignature": "MEUCIBs350XN5pKrGZOMd9NHRzqDd0dMfZCawXxl0ie1j9OWAiEAoJARVwg7FX0dcH5PcxMrepkMEuTbma197uJLL9aO214="
+  "versionCode": 13,
+  "versionName": "0.7.0-autoupdate",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.7.0/k10-agent-v0.7.0.apk",
+  "sha256": "b8ef3d22494bef1b7c884c291334a018a2f76fcc0ee0d538f531ea25d3077041",
+  "signature": "MEQCIBWYxBPVgszsmLZX0qyf3u+j2sFogUyJllAUlPLFhTEOAiBRF0dTDLBQDpVbrBEmpYbcCtJ0A168nZ+A24Hy/8kwOw=="
 }
