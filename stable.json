@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.9.0-selfheal",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.9.0/k10-agent-v0.9.0.apk",
-  "sha256": "5b921288b317de9113daf950412e19c1ed2676c365395e33e9a002cf7115996a",
-  "signature": "MEYCIQDrljltD5oSaXDvK2Y7jqHvwMGUY4I8Az1j99Wy0ZJTfQIhAPKX9bRciiURWY9j8kguIaGn4yTpU6zgpcGHr9t0dMAv"
+  "versionCode": 16,
+  "versionName": "0.10.0-uitree",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.10.0/k10-agent-v0.10.0.apk",
+  "sha256": "1e2732c33b05bb4e5a21be0f6c50a2eda30551c6aeaa404944aa09ac3f726629",
+  "signature": "MEUCIEzKikzhfWl1qmfkrHxBlYlZUEeVCgto3qJbnbMSwdMTAiEA93QpLuIA4gVC+4WMMxwdv1G6iAdy2QfQEMia+h/B6gk="
 }
