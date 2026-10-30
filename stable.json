@@ -1,0 +1,7 @@
+{
+  "versionCode": 11,
+  "versionName": "0.5.0-updater",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.5.0/k10-agent-v0.5.0.apk",
+  "sha256": "8848912b666782278f22a97ebc47db5e7a433c455d9f8bdd40dd3ac7c61a5240",
+  "signature": "MEUCIQD7zsbYZSdWcs3w4an7VG2uVTnGd73wduFgS+mW7bJOawIgNloMuDdzXtdTJ31NxQdy0PJCJxebeseUUsMBXoMXy8Q="
+}
