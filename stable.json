@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.10.0-uitree",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.10.0/k10-agent-v0.10.0.apk",
-  "sha256": "1e2732c33b05bb4e5a21be0f6c50a2eda30551c6aeaa404944aa09ac3f726629",
-  "signature": "MEUCIEzKikzhfWl1qmfkrHxBlYlZUEeVCgto3qJbnbMSwdMTAiEA93QpLuIA4gVC+4WMMxwdv1G6iAdy2QfQEMia+h/B6gk="
+  "versionCode": 17,
+  "versionName": "0.11.0-wake",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.11.0/k10-agent-v0.11.0.apk",
+  "sha256": "35f3ad95db1faeba6cf9729ea0185ee73b14bb4e82df188a59e5cde2b59b5dbf",
+  "signature": "MEUCIEEAjzbCl60WNBnf9JNuFFUK8B9w6YMR4+c29kYIp54YAiEAgpcZ3mSwokyt28YWgLsPt9lIruK+LX8SHBo99fZ0tlQ="
 }
