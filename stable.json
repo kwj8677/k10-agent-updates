@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.12.0-booking-ui",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.12.0/k10-agent-v0.12.0.apk",
-  "sha256": "08820e1061a84271c92877f65ac4ea911638f1154a5559594e4030129b13d718",
-  "signature": "MEUCIQDmdfHAVerHABJsDkY/KQg8/Q7CMXk5qyBgD66/mCRb/QIgNOYZzcx3RfR11F00K/nas4laCk3lC+jPXiv7YwKgxbA="
+  "versionCode": 17,
+  "versionName": "0.11.0-wake",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.11.0/k10-agent-v0.11.0.apk",
+  "sha256": "35f3ad95db1faeba6cf9729ea0185ee73b14bb4e82df188a59e5cde2b59b5dbf",
+  "signature": "MEUCIEEAjzbCl60WNBnf9JNuFFUK8B9w6YMR4+c29kYIp54YAiEAgpcZ3mSwokyt28YWgLsPt9lIruK+LX8SHBo99fZ0tlQ="
 }
