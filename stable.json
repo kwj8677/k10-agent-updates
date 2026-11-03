@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.13.0-native-cleanup",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.13.0/k10-agent-v0.13.0.apk",
-  "sha256": "9e557509f85aea50d5b38dabab1da46c565afca99340480a286a7ccff1d4ecd9",
-  "signature": "MEUCIF1QT3V1wh9Gtu5YuqsAclhrIKUxepuuELvhmpaWhUGnAiEA/+33ZGNiY6HlgApoWOZBEPmpDE3DLnaa/sexQj4om7s="
+  "versionCode": 20,
+  "versionName": "0.14.0-native-capabilities",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.14.0/k10-agent-v0.14.0.apk",
+  "sha256": "431a9149515448cc3c795eff0bac31c1cf83f55d0f7f5fa4115feb68232e105d",
+  "signature": "MEQCIBV5jrVJvwu9mN51nXzv8VlrSC+/kuuKwpwsi4CFtaCLAiBPOfYRXWnuZ2QocOmaBpeSlRk1Mr3Yp6sq+wcipwn0Og=="
 }
