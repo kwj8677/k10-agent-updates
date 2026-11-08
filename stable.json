@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.15.1-ondevice-selftest-ui",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.15.1/k10-agent-v0.15.1.apk",
-  "sha256": "895f59ae4dc2261baf870f18abc69f78f0eaeb7a1ea09c2a52d4f61ea3eda670",
-  "signature": "MEQCIB5zZZV0Voj/m4BayYghK4ckzFokuNTu50pmSjSNZq6TAiAS18qUwX9kzpcgmWYFqj9QizaCzxBgk+soR4qkEhO35w=="
+  "versionCode": 23,
+  "versionName": "0.15.2-native-shell",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.15.2/k10-agent-v0.15.2.apk",
+  "sha256": "7fdaa8c6a59fe18d9ae33644b1bb5d71fce5efda5d69e8847e9f44c931e33021",
+  "signature": "MEQCIBI1XblIlZTZNTIFldaX7UtdTudXo7NeMgXuA/D679NkAiBaIKD79NdGx9uoo7M1eOZq+jzs7bg5cTYG3bBI/QrfhA=="
 }
