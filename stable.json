@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.15.2-native-shell",
-  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.15.2/k10-agent-v0.15.2.apk",
-  "sha256": "7fdaa8c6a59fe18d9ae33644b1bb5d71fce5efda5d69e8847e9f44c931e33021",
-  "signature": "MEQCIBI1XblIlZTZNTIFldaX7UtdTudXo7NeMgXuA/D679NkAiBaIKD79NdGx9uoo7M1eOZq+jzs7bg5cTYG3bBI/QrfhA=="
+  "versionCode": 28,
+  "versionName": "0.15.7-tablet-workflow",
+  "apkUrl": "https://github.com/kwj8677/k10-agent-updates/releases/download/v0.15.7/k10-agent-v0.15.7.apk",
+  "sha256": "58d184453d799d2f1783dc0f203efa9ca02a5e122cb4944b62bbb3ee4da57832",
+  "signature": "MEYCIQDJE9200OK/dYf1chr/6vKjdj+QSnFWgneSuR9x3fDtcQIhANEMJyZcFZwxrfiS81tQVnEcEWS4pYuYabbJnbCsnYqJ"
 }
